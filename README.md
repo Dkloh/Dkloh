@@ -2,7 +2,6 @@
 
 What's up? Coming from NYC! Lots of love to you all!
 
-Learning computer science at BMCC
 <!--
 **Dkloh/Dkloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
